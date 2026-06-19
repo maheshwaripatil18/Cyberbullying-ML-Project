@@ -1,0 +1,27 @@
+1. Download MySQL for python from the folder.
+
+-> It a
+
+2. Install all the packages and set the username and password as root.
+
+3. Now open MySQL application and enter your username and password, if u give wrong username or password - application exits directly.
+
+4. DB.txt file consists of all the Database fields.
+
+5. Now u can open runServer file.
+
+6. add index.html extension to the url and run it.
+
+7. You will get the main home page of webpage.
+
+8. Here you can register and post content which feels offensive.
+
+9. You can also upload image but image has to be in jpeg format.
+
+10. You can train the model using Adaboost, Multi nominal naive bayes and SGD where u can see the accuracy in percentage format in graphical and tabular representation.
+
+11. Screens file consists of all the screens of website.
+
+12. Requirements.txt includes all the requirements for creating this website.
+
+13. views.py consists of complete code.

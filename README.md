@@ -180,13 +180,13 @@ The system successfully identifies harmful online content and supports safer soc
 ### Clone Repository
 
 ```bash
-git clone https://github.com/srilalitha2006/Detection-of-Cyberbullying-on-Social-media-using-Machine-Learning.git
+git clone https://github.com/maheshwaripatil18/Cyberbullying-ML-Project.git
 ```
 
 ### Navigate to Project Folder
 
 ```bash
-cd Detection-of-Cyberbullying-on-Social-media-using-Machine-Learning
+cd Cyberbullying-ML-Project
 ```
 
 ### Install Dependencies
